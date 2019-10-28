@@ -5,8 +5,8 @@ Harmful use of alcohol causes more than 5% of the global disease burden. The dea
 Alcohol control policies exist since many years, from taxes to total bans. The World Health Organization (WHO) has gathered significant amount of data on both alcohol consumption and related policies in different countries. This data can be used to evaluate the effectiveness of the policies, building upon [existing work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876414/). This evaluation could then be used by policymakers to decide which policy fits best their goals.
 
 ## Research questions
-⋅⋅* What legislations are the most efficient in reducing alcohol consumption?
-⋅⋅* What legislations are the most efficient in decreasing alcohol related diseases and deaths?
+* What legislations are the most efficient in reducing alcohol consumption?
+* What legislations are the most efficient in decreasing alcohol related diseases and deaths?
 
 Group ideas: We do a generalise analysis and a deep analysis of each own’s country (Switzerland, China, Ukraine, France) for culture or other explanations.
 
@@ -35,10 +35,10 @@ Group ideas: We do a generalise analysis and a deep analysis of each own’s cou
 Formulation of the problem: we will try to investigate the impact of various alcohol policies on the alcohol consumptions at both global and local scales.
 We should separate the tasks for each step of the project
 1. Looking at the datasets at our disposal, formulate the questions that we want to answer. 1st November
-⋅⋅1.Alcohol consumption data
-⋅⋅2.Alcohol related policies: Select the datasets which we want to use. Specify sub research questions given alcohol policies analyzed
-2.Cleaning the datasets: 10th November
-3.Rough answer to all the questions formulated at step 1 : primitive plots and conclusions about the analysis of the data: 19th November
+	1. Alcohol consumption data
+	2. Alcohol related policies: Select the datasets which we want to use. Specify sub research questions given alcohol policies analyzed
+1. Cleaning the datasets: 10th November
+1. Rough answer to all the questions formulated at step 1 : primitive plots and conclusions about the analysis of the data: 19th November
 
 
 ## Questions for TAa
