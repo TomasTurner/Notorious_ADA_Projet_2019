@@ -42,4 +42,4 @@ We should separate the tasks for each step of the project
 
 
 ## Questions for TAa
-⋅⋅* Need to control for cultural and religious factors ? We thought of aggregating the data by regions
+* Need to control for cultural and religious factors ? We thought of aggregating the data by regions
