@@ -32,13 +32,20 @@ Group ideas: We do a generalise analysis and a deep analysis of each own’s cou
 
 
 ## A list of internal milestones up until project milestone 2
-Formulation of the problem: we will try to investigate the impact of various alcohol policies on the alcohol consumptions at both global and local scales.
-We should separate the tasks for each step of the project
-1. Looking at the datasets at our disposal, formulate the questions that we want to answer. 1st November
-	1. Alcohol consumption data
-	2. Alcohol related policies: Select the datasets which we want to use. Specify sub research questions given alcohol policies analyzed
-1. Cleaning the datasets: 10th November
-1. Rough answer to all the questions formulated at step 1 : primitive plots and conclusions about the analysis of the data: 19th November
+1. Formulation of the problem: 
+We will try to investigate the impact of various alcohol policies on the alcohol consumptions at both global and local scales.                       31st October
+2. Decomposition of the problem:
+We should separate the tasks for each step of the project by looking at the datasets at our disposal, summarize all the questions that we want to answer in detail.                                                                                  **1st November**
+	1. Alcohol consumption data.
+	2. Alcohol related policies.
+		1. Select the datasets which we want to use. i.e. select the dataset which is most informative, useable and with great feasibility for processing.
+		2. Specify sub research questions given alcohol policies analyzed.
+3. Cleaning of the datasets:                                                                    
+	1. Using preprocess tools as well as filtering tools to get core information and convert dataset into appropriate format.                                 **10th November**
+4. Rough answer to all the questions formulated at step 1 : 
+	1. Generate primitive plots and conclusions about the first analysis of the data.
+Be ready to make use of the plots to introduce further and more comprehensive conclusions.                                                    **19th November**
+
 
 
 ## Questions for TAa
