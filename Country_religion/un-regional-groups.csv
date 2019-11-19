@@ -1,0 +1,195 @@
+Code,Country,Region
+DZA,Algeria,African Group
+AGO,Angola,African Group
+BEN,Benin,African Group
+BWA,Botswana,African Group
+BFA,Burkina Faso,African Group
+BDI,Burundi,African Group
+CPV,Cabo Verde,African Group
+CMR,Cameroon,African Group
+CAF,Central African Republic,African Group
+TCD,Chad,African Group
+COM,Comoros,African Group
+COG,Republic of the Congo,African Group
+CIV,Côte d’Ivoire,African Group
+COD,DR Congo,African Group
+DJI,Djibouti,African Group
+EGY,Egypt,African Group
+GNQ,Equatorial Guinea,African Group
+ERI,Eritrea,African Group
+ETH,Ethiopia,African Group
+GAB,Gabon,African Group
+GMB,Gambia,African Group
+GHA,Ghana,African Group
+GIN,Guinea,African Group
+GNB,Guinea-Bissau,African Group
+KEN,Kenya,African Group
+LSO,Lesotho,African Group
+LBR,Liberia,African Group
+LBY,Libya,African Group
+MDG,Madagascar,African Group
+MWI,Malawi,African Group
+MLI,Mali,African Group
+MRT,Mauritania,African Group
+MUS,Mauritius,African Group
+MAR,Morocco,African Group
+MOZ,Mozambique,African Group
+NAM,Namibia,African Group
+NER,Niger,African Group
+NGA,Nigeria,African Group
+RWA,Rwanda,African Group
+STP,São Tomé & Príncipe,African Group
+SEN,Senegal,African Group
+SYC,Seychelles,African Group
+SLE,Sierra Leone,African Group
+SOM,Somalia,African Group
+ZAF,South Africa,African Group
+SSD,South Sudan,African Group
+SDN,Sudan,African Group
+SWZ,Eswatini,African Group
+TGO,Togo,African Group
+TUN,Tunisia,African Group
+UGA,Uganda,African Group
+TZA,Tanzania,African Group
+ZMB,Zambia,African Group
+ZWE,Zimbabwe,African Group
+AFG,Afghanistan,Asia-Pacific Group
+BHR,Bahrain,Asia-Pacific Group
+BGD,Bangladesh,Asia-Pacific Group
+BTN,Bhutan,Asia-Pacific Group
+BRN,Brunei,Asia-Pacific Group
+KHM,Cambodia,Asia-Pacific Group
+CHN,China,Asia-Pacific Group
+CYP,Cyprus,Asia-Pacific Group
+PRK,North Korea,Asia-Pacific Group
+FJI,Fiji,Asia-Pacific Group
+IND,India,Asia-Pacific Group
+IDN,Indonesia,Asia-Pacific Group
+IRN,Iran,Asia-Pacific Group
+IRQ,Iraq,Asia-Pacific Group
+JPN,Japan,Asia-Pacific Group
+JOR,Jordan,Asia-Pacific Group
+KAZ,Kazakhstan,Asia-Pacific Group
+KIR,Kiribati,Asia-Pacific Group
+KWT,Kuwait,Asia-Pacific Group
+KGZ,Kyrgyzstan,Asia-Pacific Group
+LAO,Laos,Asia-Pacific Group
+LBN,Lebanon,Asia-Pacific Group
+MYS,Malaysia,Asia-Pacific Group
+MDV,Maldives,Asia-Pacific Group
+MHL,Marshall Islands,Asia-Pacific Group
+FSM,Micronesia,Asia-Pacific Group
+MNG,Mongolia,Asia-Pacific Group
+MMR,Myanmar,Asia-Pacific Group
+NRU,Nauru,Asia-Pacific Group
+NPL,Nepal,Asia-Pacific Group
+OMN,Oman,Asia-Pacific Group
+PAK,Pakistan,Asia-Pacific Group
+PLW,Palau,Asia-Pacific Group
+PNG,Papua New Guinea,Asia-Pacific Group
+PHL,Philippines,Asia-Pacific Group
+QAT,Qatar,Asia-Pacific Group
+KOR,South Korea,Asia-Pacific Group
+WSM,Samoa,Asia-Pacific Group
+SAU,Saudi Arabia,Asia-Pacific Group
+SGP,Singapore,Asia-Pacific Group
+SLB,Solomon Islands,Asia-Pacific Group
+LKA,Sri Lanka,Asia-Pacific Group
+SYR,Syria,Asia-Pacific Group
+TJK,Tajikistan,Asia-Pacific Group
+THA,Thailand,Asia-Pacific Group
+TLS,Timor-Leste,Asia-Pacific Group
+TON,Tonga,Asia-Pacific Group
+TUR,Turkey,Asia-Pacific Group
+TKM,Turkmenistan,Asia-Pacific Group
+TUV,Tuvalu,Asia-Pacific Group
+ARE,United Arab Emirates,Asia-Pacific Group
+UZB,Uzbekistan,Asia-Pacific Group
+VUT,Vanuatu,Asia-Pacific Group
+VNM,Vietnam,Asia-Pacific Group
+YEM,Yemen,Asia-Pacific Group
+ALB,Albania,Eastern European Group
+ARM,Armenia,Eastern European Group
+AZE,Azerbaijan,Eastern European Group
+BLR,Belarus,Eastern European Group
+BIH,Bosnia & Herzegovina,Eastern European Group
+BGR,Bulgaria,Eastern European Group
+HRV,Croatia,Eastern European Group
+CZE,Czechia,Eastern European Group
+EST,Estonia,Eastern European Group
+GEO,Georgia,Eastern European Group
+HUN,Hungary,Eastern European Group
+LVA,Latvia,Eastern European Group
+LTU,Lithuania,Eastern European Group
+MNE,Montenegro,Eastern European Group
+POL,Poland,Eastern European Group
+MDA,Moldova,Eastern European Group
+ROU,Romania,Eastern European Group
+RUS,Russia,Eastern European Group
+SRB,Serbia,Eastern European Group
+SVK,Slovakia,Eastern European Group
+SVN,Slovenia,Eastern European Group
+MKD,North Macedonia,Eastern European Group
+UKR,Ukraine,Eastern European Group
+ATG,Antigua & Barbuda,Latin American and Caribbean Group
+ARG,Argentina,Latin American and Caribbean Group
+BHS,Bahamas,Latin American and Caribbean Group
+BRB,Barbados,Latin American and Caribbean Group
+BLZ,Belize,Latin American and Caribbean Group
+BOL,Bolivia,Latin American and Caribbean Group
+BRA,Brazil,Latin American and Caribbean Group
+CHL,Chile,Latin American and Caribbean Group
+COL,Colombia,Latin American and Caribbean Group
+CRI,Costa Rica,Latin American and Caribbean Group
+CUB,Cuba,Latin American and Caribbean Group
+DMA,Dominica,Latin American and Caribbean Group
+DOM,Dominican Republic,Latin American and Caribbean Group
+ECU,Ecuador,Latin American and Caribbean Group
+SLV,El Salvador,Latin American and Caribbean Group
+GRD,Grenada,Latin American and Caribbean Group
+GTM,Guatemala,Latin American and Caribbean Group
+GUY,Guyana,Latin American and Caribbean Group
+HTI,Haiti,Latin American and Caribbean Group
+HND,Honduras,Latin American and Caribbean Group
+JAM,Jamaica,Latin American and Caribbean Group
+MEX,Mexico,Latin American and Caribbean Group
+NIC,Nicaragua,Latin American and Caribbean Group
+PAN,Panama,Latin American and Caribbean Group
+PRY,Paraguay,Latin American and Caribbean Group
+PER,Peru,Latin American and Caribbean Group
+KNA,St. Kitts & Nevis,Latin American and Caribbean Group
+LCA,St. Lucia,Latin American and Caribbean Group
+VCT,St. Vincent & Grenadines,Latin American and Caribbean Group
+SUR,Suriname,Latin American and Caribbean Group
+TTO,Trinidad & Tobago,Latin American and Caribbean Group
+URY,Uruguay,Latin American and Caribbean Group
+VEN,Venezuela,Latin American and Caribbean Group
+AND,Andorra,Western European and Others Group
+AUS,Australia,Western European and Others Group
+AUT,Austria,Western European and Others Group
+BEL,Belgium,Western European and Others Group
+CAN,Canada,Western European and Others Group
+DNK,Denmark,Western European and Others Group
+FIN,Finland,Western European and Others Group
+FRA,France,Western European and Others Group
+DEU,Germany,Western European and Others Group
+GRC,Greece,Western European and Others Group
+ISL,Iceland,Western European and Others Group
+IRL,Ireland,Western European and Others Group
+ISR,Israel,Western European and Others Group
+ITA,Italy,Western European and Others Group
+LIE,Liechtenstein,Western European and Others Group
+LUX,Luxembourg,Western European and Others Group
+MLT,Malta,Western European and Others Group
+MCO,Monaco,Western European and Others Group
+NLD,Netherlands,Western European and Others Group
+NZL,New Zealand,Western European and Others Group
+NOR,Norway,Western European and Others Group
+PRT,Portugal,Western European and Others Group
+SMR,San Marino,Western European and Others Group
+ESP,Spain,Western European and Others Group
+SWE,Sweden,Western European and Others Group
+CHE,Switzerland,Western European and Others Group
+TUR,Turkey,Western European and Others Group
+GBR,United Kingdom,Western European and Others Group
+USA,USA,Western European and Others Group
