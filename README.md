@@ -5,6 +5,7 @@ Harmful use of alcohol causes more than 5% of the global disease burden. The dea
 Alcohol control policies exist since many years, from taxes to total bans. The World Health Organization (WHO) has gathered significant amount of data on both alcohol consumption and related policies in different countries. This data can be used to evaluate the effectiveness of the policies, building upon [existing work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876414/). This evaluation could then be used by policymakers to decide which policy fits best their goals.
 
 ## Research questions
+* What kind of legislation is the most common in which type of country?
 * What legislations are the most efficient in reducing alcohol consumption?
 * What legislations are the most efficient in decreasing alcohol related diseases and deaths?
 
@@ -30,23 +31,3 @@ Group ideas: We do a generalise analysis and a deep analysis of each own’s cou
 
 [Graphs](https://ourworldindata.org/alcohol-consumption) from Our world in Data on alcohol consumption correlations, webpage
 
-
-## A list of internal milestones up until project milestone 2
-1. Formulation of the problem: 
-We will try to investigate the impact of various alcohol policies on the alcohol consumptions at both global and local scales.                       31st October
-2. Decomposition of the problem:
-We should separate the tasks for each step of the project by looking at the datasets at our disposal, summarize all the questions that we want to answer in detail.                                                                                  **1st November**
-	1. Alcohol consumption data.
-	2. Alcohol related policies.
-		1. Select the datasets which we want to use. i.e. select the dataset which is most informative, useable and with great feasibility for processing.
-		2. Specify sub research questions given alcohol policies analyzed.
-3. Cleaning of the datasets:                                                                    
-	1. Using preprocess tools as well as filtering tools to get core information and convert dataset into appropriate format.                                 **10th November**
-4. Rough answer to all the questions formulated at step 1 : 
-	1. Generate primitive plots and conclusions about the first analysis of the data.
-Be ready to make use of the plots to introduce further and more comprehensive conclusions.                                                    **19th November**
-
-
-
-## Questions for TAa
-* Need to control for cultural and religious factors ? We thought of aggregating the data by regions
