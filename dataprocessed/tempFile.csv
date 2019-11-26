@@ -12,6 +12,7 @@ Australia, 2016,0.3,0.3,0.3,0.5,0.5,0.5,0.3,0.5,0.3
 Austria, 2016,0.3,0.3,0.3,0.5,0.5,0.5,0.3,0.5,0.3
 Azerbaijan, 2016,1,1,1,0.5,0.5,1,1,1,0.5
 Bahamas, 2016,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Bahrain, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Bangladesh, 2016,1,1,1,1,1,1,1,1,1
 Barbados, 2016,0.3,0.3,0.3,0,0,0.3,0.3,0,0.3
 Belarus, 2016,1,1,1,1,1,1,1,1,1
@@ -19,15 +20,18 @@ Belgium, 2016,0.5,0.3,0.5,0.3,0.3,0.3,0.3,0.3,0.5
 Belize, 2016,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
 Benin, 2016,0.3,0,0,0,0,0,0,0,0
 Bhutan, 2016,1,1,0.3,0,0,1,1,0.3,1
+Bolivia (Plurinational State of), 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Bosnia and Herzegovina, 2016,0.3,0.3,0.3,0.3,0,0.3,0.3,1,0.3
 Botswana, 2016,1,1,1,0.5,1,1,1,0.5,1
 Brazil, 2016,1,0.5,1,0.3,0,0.5,0,0.3,0.3
+Brunei Darussalam, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Bulgaria, 2016,1,0.5,1,0.5,0.3,0.3,0,1,0.3
 Burkina Faso, 2016,1,1,1,0,0,0,0,1,1
 Burundi, 2016,1,1,1,0,0,0,0.3,0,1
 Cabo Verde, 2016,1,1,1,0,0,0,0.3,0,1
 Cambodia, 2016,1,1,1,0,0,0,1,0,0.3
 Cameroon, 2016,1,0,0,0,0,0,0,0,0
+Canada, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Central African Republic, 2016,1,0.5,0.5,0.3,0.3,1,1,0.3,0.5
 Chad, 2016,1,1,1,0,0,1,0.5,0.5,1
 Chile, 2016,1,0.3,0.3,0.3,1,1,0.3,0.3,0.3
@@ -35,11 +39,14 @@ China, 2016,1,1,0,0,0,0,0,0,0
 Colombia, 2016,1,1,0.5,0.5,0.5,1,0.3,0.5,1
 Comoros, 2016,1,1,1,1,1,1,1,1,1
 Congo, 2016,1,1,1,0,0,1,1,1,1
+Cook Islands, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Costa Rica, 2016,1,1,1,0.5,0.5,1,1,1,1
 Côte d'Ivoire, 2016,1,1,1,0.3,0,1,1,0,1
 Croatia, 2016,1,0.5,1,0.5,0.5,1,0.5,0.3,1
+Cuba, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Cyprus, 2016,1,1,1,0.5,0.5,1,1,0.5,0.5
 Czechia, 2016,1,1,1,0.3,0.5,0.5,0.3,0.5,1
+Democratic People's Republic of Korea, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Democratic Republic of the Congo, 2016,1,0,0.5,0,0,0,1,0,0
 Denmark, 2016,0.3,0.3,0,0,0,0.5,0,0,0.3
 Djibouti, 2016,1,1,1,1,1,1,1,1,1
@@ -53,6 +60,7 @@ Eritrea, 2016,1,1,1,0,0.3,1,1,1,1
 Estonia, 2016,0.5,0,1,0,1,0.5,0,0,0
 Eswatini, 2016,0.3,0.5,0.5,0,0,0,0,0,0.5
 Ethiopia, 2016,1,1,1,0,0,1,0.3,1,1
+Fiji, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Finland, 2016,1,1,1,1,0.5,1,1,1,0.3
 France, 2016,1,0,1,0,0,0.5,1,0.5,0.5
 Gabon, 2016,1,1,1,0,0,0,1,0.5,1
@@ -62,9 +70,11 @@ Germany, 2016,0.3,0.3,0.3,0,0,0.5,0,0,0.3
 Ghana, 2016,0.3,0.3,0.3,0,0,0.3,0.3,0.3,0.3
 Greece, 2016,1,1,1,0,0,1,1,1,1
 Grenada, 2016,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Guatemala, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Guinea, 2016,1,1,1,0,1,1,0.5,0.3,1
 Guinea-Bissau, 2016,0.5,0.5,0.5,0,0,0,0.5,0.5,0.5
 Guyana, 2016,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.5
+Haiti, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Honduras, 2016,0,0,0,0.3,0,0,0,0.3,0
 Hungary, 2016,1,0.3,1,0,0.5,0.5,0.3,0.5,1
 Iceland, 2016,0.5,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3
@@ -81,6 +91,8 @@ Jordan, 2016,1,1,1,1,1,1,1,1,1
 Kazakhstan, 2016,1,1,1,1,1,1,1,1,1
 Kenya, 2016,1,1,1,0,0,0,0.5,0,1
 Kiribati, 2016,1,1,1,0,0,1,0.5,0,1
+Kuwait, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
+Kyrgyzstan, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Lao People's Democratic Republic, 2016,1,1,1,0,0,1,1,1,1
 Latvia, 2016,1,1,1,0.5,0.5,0.5,0.5,0.5,1
 Lebanon, 2016,1,1,1,0,0,0.3,1,0,1
@@ -99,6 +111,7 @@ Marshall Islands, 2016,1,1,1,1,1,1,1,1,1
 Mauritania, 2016,1,1,1,1,1,1,1,1,1
 Mauritius, 2016,1,1,1,1,1,1,1,1,1
 Mexico, 2016,1,1,1,0.3,0.3,0.3,0.3,0.3,1
+Micronesia (Federated States of), 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Monaco, 2016,1,1,0,0,0,0,0.3,1,0.3
 Mongolia, 2016,1,1,1,0.3,0,1,0,0.5,1
 Montenegro, 2016,0,0,0,1,1,1,1,1,1
@@ -106,18 +119,26 @@ Morocco, 2016,1,1,1,1,1,1,1,1,1
 Mozambique, 2016,1,1,1,0,0.5,1,0.3,0,1
 Myanmar, 2016,1,1,1,0.5,0.5,0.5,1,0.5,0.5
 Namibia, 2016,0.3,1,1,0,1,0.3,0.3,0,1
+Nauru, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
+Nepal, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Netherlands, 2016,0.5,0.5,0.5,0.5,0.3,0.5,0.5,0.5,0.3
 New Zealand, 2016,0.3,0.3,0.3,0.5,0.5,0.5,0,0.5,0.3
+Nicaragua, 2016,No data,0.3,0.3,0.3,0,0.3,0.3,0.5,No data
 Niger, 2016,1,1,1,0,1,1,1,1,1
 Nigeria, 2016,1,1,1,0,0,0.3,1,0.5,1
+Niue, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Norway, 2016,0.5,0.5,0.5,0.3,1,0.5,0.3,0.3,0.3
 Oman, 2016,1,1,1,1,1,1,1,1,1
 Pakistan, 2016,1,1,1,1,1,1,1,1,1
+Palau, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Panama, 2016,1,1,1,0,1,1,0.3,0,1
+Papua New Guinea, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Paraguay, 2016,0,0,0,0,0,0,0,0,0
+Peru, 2016,0.5,No data,1,0,0.5,0.3,0.3,1,1
 Philippines, 2016,1,1,1,1,1,1,1,0,1
 Poland, 2016,1,0.3,0.3,0.5,1,1,0.3,0.5,0
 Portugal, 2016,0.5,0.5,1,0.5,0.5,0.5,0.3,0.5,0.5
+Qatar, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Republic of Korea, 2016,0,0,0,0,0,0,0,0,0
 Republic of Moldova, 2016,1,1,1,0.5,1,1,0.3,0.5,1
 Romania, 2016,1,1,1,1,1,1,0.3,1,1
@@ -129,12 +150,15 @@ Saint Vincent and the Grenadines, 2016,0.3,0.3,0.3,0,0,0,0.3,0,0.3
 Samoa, 2016,1,1,1,1,1,1,1,1,1
 San Marino, 2016,0,0,0,0,0,0,0,0.5,0
 Sao Tome and Principe, 2016,0,0,0,0,0,0,0,0,0
+Saudi Arabia, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Senegal, 2016,1,1,1,0.5,0.5,1,1,1,1
 Serbia, 2016,1,1,1,0.3,1,1,0.3,0.3,1
 Seychelles, 2016,1,1,1,0.3,0.5,1,1,1,1
 Sierra Leone, 2016,1,1,1,0,0,0.3,1,0,1
 Singapore, 2016,0,0,1,0.5,0.5,0.5,0,0.5,0
+Slovakia, 2016,1,1,1,1,0.3,1,No data,1,1
 Slovenia, 2016,1,0,1,0,0,0,0,1,1
+Solomon Islands, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Somalia, 2016,1,1,1,1,1,1,1,1,1
 South Africa, 2016,0,0,0,0,0,0,0,0,0
 South Sudan, 2016,0.3,0.3,0.3,0,0,0,0.3,0,0.3
@@ -150,17 +174,22 @@ Thailand, 2016,0.5,0.5,0.5,0,0.5,1,0.5,0,0.5
 Republic of North Macedonia, 2016,1,0.5,1,0.3,0,1,1,1,1
 Timor-Leste, 2016,1,1,1,0.5,0.5,1,0.5,0.5,0.5
 Togo, 2016,0,0,0,0,0,0,0,0,0.5
+Tonga, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Trinidad and Tobago, 2016,0.5,0.3,0.3,0.3,0,0.3,0.3,0.3,0.3
+Tunisia, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Turkey, 2016,1,1,1,1,0,1,1,1,1
 Turkmenistan, 2016,1,1,1,1,1,1,1,1,1
+Tuvalu, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Uganda, 2016,1,1,1,0,0.3,0.3,0.3,0,0.3
 Ukraine, 2016,1,1,0.5,0.5,1,1,0,0.5,1
 United Arab Emirates, 2016,1,1,1,1,1,1,1,1,1
 United Kingdom of Great Britain and Northern Ireland, 2016,0.3,0,0.3,0.5,0.5,0.5,0,0.5,0.3
 United Republic of Tanzania, 2016,1,1,1,0,0,1,1,0,1
+United States of America, 2016,No data,No data,No data,No data,No data,No data,No data,No data,No data
 Uruguay, 2016,1,1,1,0,0.3,0.3,0,1,1
 Uzbekistan, 2016,1,1,1,1,1,1,1,1,1
 Vanuatu, 2016,1,1,1,0.5,0.5,1,0,0.5,0
+Venezuela (Bolivarian Republic of), 2016,No data,No data,No data,No data,No data,1,No data,No data,No data
 Viet Nam, 2016,1,1,1,0,0,0,0,0,1
 Yemen, 2016,1,1,1,1,1,1,1,1,1
 Zambia, 2016,0.3,1,1,0,0,1,0.3,0,1

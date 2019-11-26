@@ -1,4 +1,5 @@
-Country,Year,Tax on Beer,Tax on Wine,Tax on Spirits
+,,Excise tax on alcoholic beverages,Excise tax on alcoholic beverages,Excise tax on alcoholic beverages
+Country,Year, Beer, Wine, Spirits
 Albania, 2016,1,1,1
 Algeria, 2016,1,1,1
 Andorra, 2016,1,1,1
