@@ -1,0 +1,49 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Alcohol, Policies, economics, what matters?
+email: tomas.turner@epfl.ch
+description: "We know some countries drink more than others, but what do they do about it? We head out for an exploration of alcohol policies and try to understand if drinking alcohol consumption can be changed or is fixed by external factors"
+
+
+# Team names, titles and social links
+people:
+- name: Tomas Turner
+  pic: Tomas
+  position: Material Science
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/tomas-turner95/
+
+- name: Tristan Trebaol
+  pic: tristan
+  position: Lead Marketer
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/tristan-trebaol/
+
+- name: Zhuoyi Huang
+  pic: zhuoyi
+  position: Computer Science
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/zhuoyi-huang-0a8229168/
+
+
+- name: Nykita Shulga
+  pic: nik
+  position: Computer Science
+  social:
+    - title: github
+      url: https://github.com/Umbriferous
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/TomasTurner/Notorious_ADA_Projet_2019
+
+# Build settings
+markdown: kramdown
+permalink: pretty
