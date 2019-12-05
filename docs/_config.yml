@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: ""
+baseurl: "Notorious_ADA_Projet_2019"
 
 # Site settings
 title: Alcohol, Policies, economics, what matters?
@@ -47,5 +47,3 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-theme: jekyll-theme-cayman
