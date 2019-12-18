@@ -30,6 +30,9 @@ In this project we first look quantitatively what correlates to alcohol consumpt
 
 ## Team roles
 Mykita: Correlations, Regression Model, Case study ukraine
+
 Tomas: Problem Formulation, Data Exploration, Case study Switzerland, Case studies section, Website, Presentation
+
 Tristan: Data Cleaning, Case study france, Code clarity
+
 Zhuoyi: Data Visualization, Case study China, Poster
