@@ -11,6 +11,9 @@ Alcohol control policies exist since many years, from taxes to total bans. The W
 
 In this project we first look quantitatively what correlates to alcohol consumption and then we take a qualitative view in specific case studies to see if these correlation might have a causasl link.
 
+## Datastory
+You can read our datastory on our [website](https://tomasturner.github.io/Notorious_ADA_Projet_2019/)
+
 ## Dataset used
 [Reports]( https://www.who.int/substance_abuse/publications/alcohol/en/) from 1999 to 2018, Country profiles (PDFs) for 1999, 2004, 2011, 2014, 2018 (WHO)
 
@@ -33,6 +36,6 @@ Mykita: Correlations, Regression Model, Case study ukraine
 
 Tomas: Problem Formulation, Data Exploration, Case study Switzerland, Case studies section, Website, Presentation
 
-Tristan: Data Cleaning, Case study france, Code clarity
+Tristan: Data Cleaning, Case study France, Code clarity
 
 Zhuoyi: Data Visualization, Case study China, Poster
