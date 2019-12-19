@@ -274,3 +274,23 @@ def rescale_data(df, feature_range=(0,1)):
     mm_scaler = MinMaxScaler(feature_range=feature_range)
     df_mm = mm_scaler.fit_transform(df)
     return pd.DataFrame(df_mm)
+
+
+# functions to add Alcohol consumption means of different regions and religions to each countries
+def add_mean1_region(inputregion, df):
+    mean = df.loc[df['Region'] == inputregion]['Alcohol_com1']
+#     print("len_region", len(mean))
+#     print(mean, type(mean), mean.index)
+    return float(mean)
+def add_mean1_religion(inputreligion, df):
+    mean = df.loc[df['Religion'] == inputreligion]['Alcohol_com1']
+#     print(inputreligion)
+#     print("len_religion", len(mean))
+#     print(mean, type(mean), mean.index)
+    return float(mean)
+def add_mean2_region(inputregion, df):
+    mean = df.loc[df['Region'] == inputregion]['Alcohol_com2']
+    return float(mean)
+def add_mean2_religion(inputreligion, df):
+    mean = df.loc[df['Religion'] == inputreligion]['Alcohol_com2']
+    return float(mean)
