@@ -1,5 +1,4 @@
-,,Licence for,Licence for,Licence for
-Country,Year, Beer production, Wine production, Spirits production
+Country,Year,Licence for beer production,Licence for wine production,Licence for spirits production
 Albania, 2016,1,1,1
 Algeria, 2016,0,0,0
 Andorra, 2016,1,1,1
@@ -86,7 +85,7 @@ Malaysia, 2016,1,1,1
 Mali, 2016,1,0,0
 Malta, 2016,1,1,1
 Marshall Islands, 2016,0,0,0
-Mauritania, 2016,Total ban,Total ban,Total ban
+Mauritania, 2016,1.5,1.5,1.5
 Mauritius, 2016,1,1,1
 Mexico, 2016,0,0,0
 Mongolia, 2016,1,1,1
