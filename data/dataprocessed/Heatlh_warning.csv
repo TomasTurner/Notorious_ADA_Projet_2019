@@ -1,4 +1,5 @@
 Country,Year,Health warning labels on alcohol containers
+Afghanistan, 2016,
 Albania, 2016,1
 Algeria, 2016,0
 Andorra, 2016,0
@@ -9,15 +10,20 @@ Armenia, 2016,0
 Australia, 2016,0
 Austria, 2016,0
 Azerbaijan, 2016,0
+Bahamas, 2016,
+Bahrain, 2016,
+Bangladesh, 2016,
 Barbados, 2016,0
 Belarus, 2016,1
 Belgium, 2016,0
 Belize, 2016,0
 Benin, 2016,0
 Bhutan, 2016,0
+Bolivia (Plurinational State of), 2016,
 Bosnia and Herzegovina, 2016,0
 Botswana, 2016,0
 Brazil, 2016,1
+Brunei Darussalam, 2016,
 Bulgaria, 2016,0
 Burkina Faso, 2016,0
 Burundi, 2016,1
@@ -39,6 +45,7 @@ Croatia, 2016,0
 Cuba, 2016,0
 Cyprus, 2016,0
 Czechia, 2016,0
+Democratic People's Republic of Korea, 2016,
 Democratic Republic of the Congo, 2016,0
 Denmark, 2016,0
 Djibouti, 2016,1
@@ -52,6 +59,7 @@ Eritrea, 2016,0
 Estonia, 2016,0
 Eswatini, 2016,0
 Ethiopia, 2016,0
+Fiji, 2016,
 Finland, 2016,0
 France, 2016,1
 Gabon, 2016,1
@@ -65,11 +73,13 @@ Guatemala, 2016,1
 Guinea, 2016,0
 Guinea-Bissau, 2016,0
 Guyana, 2016,0
+Haiti, 2016,
 Honduras, 2016,1
 Hungary, 2016,0
 Iceland, 2016,0
 India, 2016,1
 Indonesia, 2016,0
+Iran (Islamic Republic of), 2016,
 Iraq, 2016,0
 Ireland, 2016,0
 Israel, 2016,1
@@ -80,21 +90,27 @@ Jordan, 2016,0
 Kazakhstan, 2016,1
 Kenya, 2016,1
 Kiribati, 2016,0
+Kuwait, 2016,
+Kyrgyzstan, 2016,
 Lao People's Democratic Republic, 2016,1
 Latvia, 2016,0
 Lebanon, 2016,1
 Lesotho, 2016,0
 Liberia, 2016,0
+Libya, 2016,
 Lithuania, 2016,0
 Luxembourg, 2016,0
 Madagascar, 2016,0
 Malawi, 2016,0
 Malaysia, 2016,1
+Maldives, 2016,
 Mali, 2016,0
 Malta, 2016,0
 Marshall Islands, 2016,1
+Mauritania, 2016,
 Mauritius, 2016,1
 Mexico, 2016,1
+Micronesia (Federated States of), 2016,
 Monaco, 2016,0
 Mongolia, 2016,0
 Montenegro, 2016,0
@@ -102,20 +118,26 @@ Morocco, 2016,0
 Mozambique, 2016,1
 Myanmar, 2016,0
 Namibia, 2016,0
+Nauru, 2016,
+Nepal, 2016,
 Netherlands, 2016,0
 New Zealand, 2016,0
 Nicaragua, 2016,0
 Niger, 2016,0
 Nigeria, 2016,0
+Niue, 2016,
 Norway, 2016,0
 Oman, 2016,0
 Pakistan, 2016,0
+Palau, 2016,
 Panama, 2016,1
+Papua New Guinea, 2016,
 Paraguay, 2016,0
 Peru, 2016,1
 Philippines, 2016,1
 Poland, 2016,0
 Portugal, 2016,1
+Qatar, 2016,
 Republic of Korea, 2016,1
 Republic of Moldova, 2016,0
 Romania, 2016,0
@@ -127,6 +149,7 @@ Saint Vincent and the Grenadines, 2016,0
 Samoa, 2016,0
 San Marino, 2016,0
 Sao Tome and Principe, 2016,0
+Saudi Arabia, 2016,
 Senegal, 2016,1
 Serbia, 2016,0
 Seychelles, 2016,0
@@ -134,10 +157,13 @@ Sierra Leone, 2016,0
 Singapore, 2016,0
 Slovakia, 2016,0
 Slovenia, 2016,0
+Solomon Islands, 2016,
+Somalia, 2016,
 South Africa, 2016,1
 South Sudan, 2016,1
 Spain, 2016,0
 Sri Lanka, 2016,0
+Sudan, 2016,
 Suriname, 2016,0
 Sweden, 2016,0
 Switzerland, 2016,0
@@ -147,9 +173,12 @@ Thailand, 2016,1
 Republic of North Macedonia, 2016,1
 Timor-Leste, 2016,0
 Togo, 2016,0
+Tonga, 2016,
 Trinidad and Tobago, 2016,0
+Tunisia, 2016,
 Turkey, 2016,1
 Turkmenistan, 2016,1
+Tuvalu, 2016,
 Uganda, 2016,0
 Ukraine, 2016,0
 United Arab Emirates, 2016,0
@@ -161,5 +190,6 @@ Uzbekistan, 2016,1
 Vanuatu, 2016,0
 Venezuela (Bolivarian Republic of), 2016,0
 Viet Nam, 2016,0
+Yemen, 2016,
 Zambia, 2016,1
 Zimbabwe, 2016,1

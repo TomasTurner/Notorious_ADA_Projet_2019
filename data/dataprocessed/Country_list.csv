@@ -1,0 +1,177 @@
+,Number,iso3,Country,Region,Religion
+0,0,DZA,Algeria,African Group,Islam
+1,1,AGO,Angola,African Group,Indigenous beliefs
+2,2,BEN,Benin,African Group,Indigenous beliefs
+3,3,BWA,Botswana,African Group,Christian
+4,4,BFA,Burkinafaso,African Group,Islam
+5,5,BDI,Burundi,African Group,Roman Catholic
+6,6,CMR,Cameroon,African Group,Indigenous beliefs
+7,7,CAF,Centralafricanrepublic,African Group,Indigenous beliefs
+8,8,TCD,Chad,African Group,Islam
+9,9,COM,Comoros,African Group,Islam
+10,10,DJI,Djibouti,African Group,Islam
+11,11,EGY,Egypt,African Group,Islam Sunni
+12,12,GNQ,Equatorialguinea,African Group,Roman Catholic
+13,13,ERI,Eritrea,African Group,Islam
+14,14,ETH,Ethiopia,African Group,Islam
+15,15,GAB,Gabon,African Group,Christian
+16,16,GMB,Gambia,African Group,Islam
+17,17,GHA,Ghana,African Group,Christian
+18,18,GIN,Guinea,African Group,Islam
+19,19,GNB,Guineabissau,African Group,Indigenous beliefs
+20,20,KEN,Kenya,African Group,Protestant
+21,21,LSO,Lesotho,African Group,Christian
+22,22,LBR,Liberia,African Group,traditional
+23,23,LBY,Libya,African Group,Islam
+24,24,MDG,Madagascar,African Group,Indigenous beliefs
+25,25,MWI,Malawi,African Group,Christian
+26,26,MLI,Mali,African Group,Islam
+27,27,MRT,Mauritania,African Group,Islam
+28,28,MUS,Mauritius,African Group,Hindu
+29,29,MAR,Morocco,African Group,Islam
+30,30,MOZ,Mozambique,African Group,Mozambique
+31,31,NAM,Namibia,African Group,Christian
+32,32,NER,Niger,African Group,Islam
+33,33,NGA,Nigeria,African Group,Islam
+34,34,RWA,Rwanda,African Group,Roman Catholic
+35,35,SEN,Senegal,African Group,Islam
+36,36,SYC,Seychelles,African Group,Roman Catholic
+37,37,SLE,Sierraleone,African Group,Islam
+38,38,SOM,Somalia,African Group,Islam
+39,39,ZAF,Southafrica,African Group,Christian
+40,40,SDN,Sudan,African Group,Islam
+41,41,TGO,Togo,African Group,Indigenous beliefs
+42,42,TUN,Tunisia,African Group,Islam
+43,43,UGA,Uganda,African Group,Roman Catholic
+44,44,TZA,Tanzania,African Group,Christian
+45,45,ZMB,Zambia,African Group,Christian
+46,46,ZWE,Zimbabwe,African Group,Christian
+47,47,AFG,Afghanistan,Asia-Pacific Group,Islam
+48,48,BHR,Bahrain,Asia-Pacific Group,Islam
+49,49,BGD,Bangladesh,Asia-Pacific Group,Islam
+50,50,BTN,Bhutan,Asia-Pacific Group,Buddhist
+51,51,BRN,Brunei,Asia-Pacific Group,Islam
+52,52,KHM,Cambodia,Asia-Pacific Group,Buddhist
+53,53,CHN,China,Asia-Pacific Group,Officially atheist
+54,54,CYP,Cyprus,Asia-Pacific Group,Orthodox
+55,55,FJI,Fiji,Asia-Pacific Group,Christian
+56,56,IND,India,Asia-Pacific Group,Hindu
+57,57,IDN,Indonesia,Asia-Pacific Group,Islam
+58,58,IRN,Iran,Asia-Pacific Group,Islam
+59,59,IRQ,Iraq,Asia-Pacific Group,Islam
+60,60,JPN,Japan,Asia-Pacific Group,Shintoist and Buddhist
+61,61,JOR,Jordan,Asia-Pacific Group,Islam
+62,62,KAZ,Kazakhstan,Asia-Pacific Group,Islam
+63,63,KIR,Kiribati,Asia-Pacific Group,Roman Catholic
+64,64,KWT,Kuwait,Asia-Pacific Group,Islam
+65,65,KGZ,Kyrgyzstan,Asia-Pacific Group,Islam
+66,66,LAO,Laos,Asia-Pacific Group,Buddhist
+67,67,LBN,Lebanon,Asia-Pacific Group,Islam
+68,68,MYS,Malaysia,Asia-Pacific Group,Islam
+69,69,MDV,Maldives,Asia-Pacific Group,Islam
+70,70,MHL,Marshallislands,Asia-Pacific Group,Protestant
+71,71,FSM,Micronesia,Asia-Pacific Group,Roman Catholic
+72,72,MNG,Mongolia,Asia-Pacific Group,Buddhist
+73,73,MMR,Myanmar,Asia-Pacific Group,Buddhist
+74,74,NRU,Nauru,Asia-Pacific Group,Protestant
+75,75,NPL,Nepal,Asia-Pacific Group,Hindu
+76,76,OMN,Oman,Asia-Pacific Group,Islam
+77,77,PAK,Pakistan,Asia-Pacific Group,Islam
+78,78,PLW,Palau,Asia-Pacific Group,Roman Catholic
+79,79,PNG,Papuanewguinea,Asia-Pacific Group,Roman Catholic
+80,80,PHL,Philippines,Asia-Pacific Group,Roman Catholic
+81,81,QAT,Qatar,Asia-Pacific Group,Islam
+82,82,WSM,Samoa,Asia-Pacific Group,Congregationalist
+83,83,SAU,Saudiarabia,Asia-Pacific Group,Islam
+84,84,SGP,Singapore,Asia-Pacific Group,Buddhist
+85,85,SLB,Solomonislands,Asia-Pacific Group,Church of Melanesia
+86,86,LKA,Srilanka,Asia-Pacific Group,Buddhist
+87,87,SYR,Syria,Asia-Pacific Group,Islam
+88,88,TJK,Tajikistan,Asia-Pacific Group,Islam Sunni
+89,89,THA,Thailand,Asia-Pacific Group,Buddhist
+90,90,TON,Tonga,Asia-Pacific Group,Christian
+91,91,TUR,Turkey,Asia-Pacific Group,Islam
+92,92,TUR,Turkey,Western European and Others Group,Islam
+93,93,TKM,Turkmenistan,Asia-Pacific Group,Islam
+94,94,TUV,Tuvalu,Asia-Pacific Group,Church of Tuvalu
+95,95,ARE,Unitedarabemirates,Asia-Pacific Group,Islam
+96,96,UZB,Uzbekistan,Asia-Pacific Group,Islam
+97,97,VUT,Vanuatu,Asia-Pacific Group,Protestant
+98,98,VNM,Vietnam,Asia-Pacific Group,Buddhist
+99,99,YEM,Yemen,Asia-Pacific Group,Islam
+100,100,ALB,Albania,Eastern European Group,Islam
+101,101,ARM,Armenia,Eastern European Group,Armenian Apostolic
+102,102,AZE,Azerbaijan,Eastern European Group,Islam
+103,103,BLR,Belarus,Eastern European Group,Orthodox
+104,104,BGR,Bulgaria,Eastern European Group,Orthodox
+105,105,HRV,Croatia,Eastern European Group,Roman Catholic
+106,106,EST,Estonia,Eastern European Group,Protestant
+107,107,GEO,Georgia,Eastern European Group,Orthodox
+108,108,HUN,Hungary,Eastern European Group,Roman Catholic
+109,109,LVA,Latvia,Eastern European Group,Protestant
+110,110,LTU,Lithuania,Eastern European Group,Roman Catholic
+111,111,MNE,Montenegro,Eastern European Group,Orthodox
+112,112,POL,Poland,Eastern European Group,Roman Catholic
+113,113,MDA,Moldova,Eastern European Group,Orthodox
+114,114,ROU,Romania,Eastern European Group,Orthodox
+115,115,RUS,Russia,Eastern European Group,Orthodox
+116,116,SRB,Serbia,Eastern European Group,Orthodox
+117,117,SVK,Slovakia,Eastern European Group,Roman Catholic
+118,118,SVN,Slovenia,Eastern European Group,Catholic
+119,119,UKR,Ukraine,Eastern European Group,Orthodox
+120,120,ARG,Argentina,Latin American and Caribbean Group,Roman Catholic
+121,121,BHS,Bahamas,Latin American and Caribbean Group,Baptist
+122,122,BRB,Barbados,Latin American and Caribbean Group,Protestant
+123,123,BLZ,Belize,Latin American and Caribbean Group,Roman Catholic
+124,124,BOL,Bolivia,Latin American and Caribbean Group,Roman Catholic
+125,125,BRA,Brazil,Latin American and Caribbean Group,Roman Catholic
+126,126,CHL,Chile,Latin American and Caribbean Group,Roman Catholic
+127,127,COL,Colombia,Latin American and Caribbean Group,Roman Catholic
+128,128,CRI,Costarica,Latin American and Caribbean Group,Roman Catholic
+129,129,CUB,Cuba,Latin American and Caribbean Group,Roman Catholic
+130,130,DMA,Dominica,Latin American and Caribbean Group,Roman Catholic
+131,131,DOM,Dominicanrepublic,Latin American and Caribbean Group,Roman Catholic
+132,132,ECU,Ecuador,Latin American and Caribbean Group,Roman Catholic
+133,133,SLV,Elsalvador,Latin American and Caribbean Group,Roman Catholic
+134,134,GRD,Grenada,Latin American and Caribbean Group,Roman Catholic
+135,135,GTM,Guatemala,Latin American and Caribbean Group,Roman Catholic
+136,136,GUY,Guyana,Latin American and Caribbean Group,Christian
+137,137,HTI,Haiti,Latin American and Caribbean Group,Roman Catholic
+138,138,HND,Honduras,Latin American and Caribbean Group,Roman Catholic
+139,139,JAM,Jamaica,Latin American and Caribbean Group,Protestant
+140,140,MEX,Mexico,Latin American and Caribbean Group,Roman Catholic
+141,141,NIC,Nicaragua,Latin American and Caribbean Group,Roman Catholic
+142,142,PAN,Panama,Latin American and Caribbean Group,Roman Catholic
+143,143,PRY,Paraguay,Latin American and Caribbean Group,Roman Catholic
+144,144,PER,Peru,Latin American and Caribbean Group,Roman Catholic
+145,145,LCA,St.lucia,Latin American and Caribbean Group,Roman Catholic
+146,146,SUR,Suriname,Latin American and Caribbean Group,Hindu
+147,147,URY,Uruguay,Latin American and Caribbean Group,Roman Catholic
+148,148,VEN,Venezuela,Latin American and Caribbean Group,Roman Catholic
+149,149,AND,Andorra,Western European and Others Group,Roman Catholic
+150,150,AUS,Australia,Western European and Others Group,Roman Catholic
+151,151,AUT,Austria,Western European and Others Group,Roman Catholic
+152,152,BEL,Belgium,Western European and Others Group,Roman Catholic
+153,153,CAN,Canada,Western European and Others Group,Roman Catholic
+154,154,DNK,Denmark,Western European and Others Group,Protestant
+155,155,FIN,Finland,Western European and Others Group,Protestant
+156,156,FRA,France,Western European and Others Group,Roman Catholic
+157,157,DEU,Germany,Western European and Others Group,Protestant
+158,158,GRC,Greece,Western European and Others Group,Orthodox
+159,159,ISL,Iceland,Western European and Others Group,Protestant
+160,160,IRL,Ireland,Western European and Others Group,Roman Catholic
+161,161,ISR,Israel,Western European and Others Group,Judaism
+162,162,ITA,Italy,Western European and Others Group,Roman Catholic
+163,163,LIE,Liechtenstein,Western European and Others Group,Roman Catholic
+164,164,LUX,Luxembourg,Western European and Others Group,Roman Catholic
+165,165,MLT,Malta,Western European and Others Group,Roman Catholic
+166,166,MCO,Monaco,Western European and Others Group,Roman Catholic
+167,167,NLD,Netherlands,Western European and Others Group,Roman Catholic
+168,168,NZL,Newzealand,Western European and Others Group,Anglican
+169,169,NOR,Norway,Western European and Others Group,Protestant
+170,170,PRT,Portugal,Western European and Others Group,Roman Catholic
+171,171,SMR,Sanmarino,Western European and Others Group,Roman Catholic
+172,172,ESP,Spain,Western European and Others Group,Roman Catholic
+173,173,SWE,Sweden,Western European and Others Group,Protestant
+174,174,CHE,Switzerland,Western European and Others Group,Roman Catholic
+175,175,GBR,Unitedkingdom,Western European and Others Group,Anglican

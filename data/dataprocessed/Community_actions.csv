@@ -11,6 +11,7 @@ Australia, 2016,1,0,0,1,0,0,0,0
 Austria, 2016,0,0,0,0,0,0,0,0
 Azerbaijan, 2016,0,0,1,1,0,1,0,0
 Bahamas, 2016,0,1,1,1,1,0,0,0
+Bahrain, 2016,,,,,,,,
 Bangladesh, 2016,0,0,1,0,0,1,1,1
 Barbados, 2016,1,1,1,1,1,1,1,1
 Belarus, 2016,1,0,1,0,1,1,1,1
@@ -18,9 +19,11 @@ Belgium, 2016,0,0,1,0,1,0,1,1
 Belize, 2016,0,0,0,1,1,1,1,1
 Benin, 2016,0,0,1,1,1,0,0,0
 Bhutan, 2016,1,0,1,0,1,1,1,1
+Bolivia (Plurinational State of), 2016,,,,,,,,
 Bosnia and Herzegovina, 2016,0,0,1,0,0,1,1,0
 Botswana, 2016,1,0,1,0,1,1,0,0
 Brazil, 2016,0,0,0,1,0,0,0,1
+Brunei Darussalam, 2016,,,,,,,,
 Bulgaria, 2016,1,0,1,0,1,0,0,0
 Burkina Faso, 2016,1,0,0,0,0,1,0,1
 Burundi, 2016,0,1,1,0,1,1,0,0
@@ -35,12 +38,14 @@ China, 2016,0,0,0,0,0,0,0,0
 Colombia, 2016,1,1,0,0,1,1,1,0
 Comoros, 2016,0,0,0,0,0,0,0,0
 Congo, 2016,0,0,0,0,0,0,0,0
+Cook Islands, 2016,,,,,,,,
 Costa Rica, 2016,1,0,1,1,0,1,1,0
 Côte d'Ivoire, 2016,0,0,1,1,0,1,0,1
 Croatia, 2016,1,0,1,1,1,1,1,1
 Cuba, 2016,0,1,1,1,1,1,1,1
 Cyprus, 2016,0,0,1,1,1,1,1,1
 Czechia, 2016,0,0,1,1,1,1,1,1
+Democratic People's Republic of Korea, 2016,,,,,,,,
 Democratic Republic of the Congo, 2016,0,0,0,0,0,0,0,0
 Denmark, 2016,1,1,1,1,0,1,1,0
 Djibouti, 2016,0,0,0,0,0,0,0,0
@@ -54,6 +59,7 @@ Eritrea, 2016,0,1,1,0,0,1,0,1
 Estonia, 2016,0,1,1,0,0,1,1,1
 Eswatini, 2016,1,0,1,0,0,0,0,1
 Ethiopia, 2016,0,0,0,0,0,0,0,0
+Fiji, 2016,,,,,,,,
 Finland, 2016,0,1,0,0,0,1,1,1
 France, 2016,1,0,0,0,0,1,0,0
 Gabon, 2016,0,0,0,0,0,0,0,0
@@ -67,6 +73,7 @@ Guatemala, 2016,0,0,1,0,1,0,0,0
 Guinea, 2016,0,0,0,0,0,0,0,0
 Guinea-Bissau, 2016,0,0,0,0,0,0,0,0
 Guyana, 2016,0,0,1,1,1,1,1,1
+Haiti, 2016,,,,,,,,
 Honduras, 2016,1,1,1,1,1,1,1,1
 Hungary, 2016,1,0,0,1,1,0,0,0
 Iceland, 2016,1,1,0,0,0,1,1,1
@@ -83,6 +90,8 @@ Jordan, 2016,0,0,0,1,0,0,0,0
 Kazakhstan, 2016,1,0,1,0,0,0,0,1
 Kenya, 2016,1,0,1,1,1,1,1,1
 Kiribati, 2016,1,1,1,1,1,1,1,1
+Kuwait, 2016,,,,,,,,
+Kyrgyzstan, 2016,,,,,,,,
 Lao People's Democratic Republic, 2016,0,0,0,0,0,0,0,0
 Latvia, 2016,0,0,0,0,0,1,1,1
 Lebanon, 2016,0,0,0,0,1,1,0,0
@@ -94,12 +103,14 @@ Luxembourg, 2016,0,0,0,0,0,1,1,1
 Madagascar, 2016,0,0,0,0,0,1,0,0
 Malawi, 2016,0,0,0,0,0,0,0,0
 Malaysia, 2016,1,1,1,1,1,1,1,1
+Maldives, 2016,,,,,,,,
 Mali, 2016,0,0,0,0,0,0,0,0
 Malta, 2016,1,1,1,0,0,1,0,0
 Marshall Islands, 2016,0,1,1,1,1,1,1,1
 Mauritania, 2016,0,0,0,0,0,0,0,0
 Mauritius, 2016,1,0,1,1,1,1,1,1
 Mexico, 2016,0,1,1,1,0,0,0,1
+Micronesia (Federated States of), 2016,,,,,,,,
 Monaco, 2016,0,0,0,0,0,0,0,0
 Mongolia, 2016,1,0,0,0,0,0,0,0
 Montenegro, 2016,1,0,0,0,0,0,0,0
@@ -107,20 +118,26 @@ Morocco, 2016,1,0,0,1,1,1,1,1
 Mozambique, 2016,0,0,1,0,0,1,1,0
 Myanmar, 2016,0,0,0,0,0,0,0,0
 Namibia, 2016,0,0,1,0,0,1,0,1
+Nauru, 2016,,,,,,,,
+Nepal, 2016,,,,,,,,
 Netherlands, 2016,0,0,0,0,0,1,1,0
 New Zealand, 2016,1,1,1,1,0,1,1,1
 Nicaragua, 2016,1,1,1,1,1,1,1,1
 Niger, 2016,0,0,0,0,0,0,0,0
 Nigeria, 2016,0,0,1,0,0,0,0,0
+Niue, 2016,,,,,,,,
 Norway, 2016,0,1,0,0,0,1,0,1
 Oman, 2016,0,0,0,0,0,0,0,0
 Pakistan, 2016,0,0,0,0,0,0,0,0
+Palau, 2016,,,,,,,,
 Panama, 2016,0,0,1,1,1,0,0,0
+Papua New Guinea, 2016,,,,,,,,0
 Paraguay, 2016,0,1,1,1,1,1,1,1
 Peru, 2016,1,0,1,0,1,1,0,0
 Philippines, 2016,0,0,0,0,1,0,0,0
 Poland, 2016,1,0,1,0,0,1,1,0
 Portugal, 2016,1,1,1,1,1,1,1,1
+Qatar, 2016,,,,,,,,
 Republic of Korea, 2016,0,0,1,0,0,1,0,0
 Republic of Moldova, 2016,0,0,1,1,1,0,1,1
 Romania, 2016,0,1,0,0,0,1,1,0
@@ -132,6 +149,7 @@ Saint Vincent and the Grenadines, 2016,0,0,0,0,0,0,0,0
 Samoa, 2016,1,1,1,1,1,1,1,1
 San Marino, 2016,0,0,0,0,0,0,0,0
 Sao Tome and Principe, 2016,0,0,0,0,0,0,0,0
+Saudi Arabia, 2016,,,,,,,,
 Senegal, 2016,0,0,0,0,0,0,1,1
 Serbia, 2016,0,0,1,0,0,1,1,1
 Seychelles, 2016,1,1,1,1,1,1,1,0
@@ -139,6 +157,7 @@ Sierra Leone, 2016,0,0,1,0,0,1,0,0
 Singapore, 2016,1,0,1,0,0,1,0,0
 Slovakia, 2016,0,0,0,0,1,0,0,1
 Slovenia, 2016,1,1,1,1,1,1,1,1
+Solomon Islands, 2016,,,,,,,,
 Somalia, 2016,0,0,0,0,0,0,0,0
 South Africa, 2016,0,0,0,0,0,0,0,0
 South Sudan, 2016,0,0,0,0,0,1,1,1
@@ -154,9 +173,12 @@ Thailand, 2016,1,1,1,0,0,1,0,0
 Republic of North Macedonia, 2016,0,0,1,0,1,0,0,0
 Timor-Leste, 2016,0,1,1,1,1,1,1,1
 Togo, 2016,0,0,0,0,0,0,0,0
+Tonga, 2016,,,,,,,,
 Trinidad and Tobago, 2016,1,1,1,1,1,1,1,1
+Tunisia, 2016,,,,,,,,
 Turkey, 2016,0,0,0,0,0,0,0,0
 Turkmenistan, 2016,0,0,0,1,0,0,1,0
+Tuvalu, 2016,,,,,,,,
 Uganda, 2016,0,0,0,0,0,0,0,0
 Ukraine, 2016,0,0,0,0,0,0,0,0
 United Arab Emirates, 2016,0,0,0,0,0,0,0,0
