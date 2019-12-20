@@ -85,6 +85,7 @@ Alcohol control policies exist since many years, from taxes to total bans. The W
                         This data can be used to evaluate the effectiveness of the policies and later policymakers can use it to make informed decisions.
 
                       </div>
+
                   <br/>
                     <h4 class = "section-subheading">Research Questions</h4>
                     <div class= "text-corps">
@@ -101,6 +102,7 @@ Alcohol control policies exist since many years, from taxes to total bans. The W
     </section>
 
 
+
   <!-- policies Section -->
 <section class="bg-light page-section" id="policy">
     <div class="container">
@@ -115,7 +117,7 @@ Alcohol control policies exist since many years, from taxes to total bans. The W
     restrict access to alcohol
 
 
-                    '<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/49.embed" height="525" width="100%"></iframe>'
+                    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/49.embed" height="525" width="100%"></iframe>
                     We can observe that in the world the most common alcohol control policy is to charge the consumer an extra fee. This makes sense as it is the easiest to enforce also for lower-income countries, who do not have the budget to have government programmes to reduce alcohol consumption
 
 We look a bit closer inside each category
@@ -126,7 +128,7 @@ We look a bit closer inside each category
 </p>
 
                                             <h3 class="section-heading">Policies by regions</h3>
-                  '<iframe id="region_policies" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/23.embed" height="525" width="100%"></iframe>'
+                  <iframe id="region_policies" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/23.embed" height="525" width="100%"></iframe>
 
                       <div class= "text-corps">
 We can observe the popularity of different kind of policies is similar for different regions. The hypothesis made above about awareness being a policy put forward by developed countries does not stand as Western Europe has little difference with the other region in this category
@@ -136,7 +138,7 @@ We can observe the popularity of different kind of policies is similar for diffe
   <br>
 </p>
                                             <h3 class="section-heading">Policies by religion </h3>
-                  '<iframe id="religion_policies" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/25.embed" height="525" width="100%"></iframe>'
+                  <iframe id="religion_policies" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/25.embed" height="525" width="100%"></iframe>
 
                       <div class= "text-corps">
 We can observe a few differences between countries with different religions
@@ -154,24 +156,45 @@ We can observe a few differences between countries with different religions
     </div>
 </section>
 
+
     <!-- factors Section -->
 <section id="tools" class="factors">
   <div class= container>
     <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Influence factors</h2>
-                      <div class= "text-corps"> Here we show the correlation. Show the bottom part of the heatmap? and discuss what factors influence the result
+                      <div class= "text-corps"> Several things influence alcohol consumption. We can initially think that the religion or the region in which a country is highly influences the alcohol consumption. We can see how these two factors compare to alcohol consumption in the following images.
+
+<p align="center"><iframe frameborder="0" class="juxtapose" width="80%" height="540" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=508b30fe-234a-11ea-b9b8-0edaf8f81e27"></iframe></p>
+
+    <p align="center"><iframe frameborder="0" class="juxtapose" width="80%" height="540" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=614c5d82-234a-11ea-b9b8-0edaf8f81e27"></iframe></p>
+
+We try to find a more accurate way to separate countries in categories and understand what influences alcohol consumption.
+We have several alcohol control policies and socio-economic policies that probably influence alcohol policies. We have two way to assess the influence: train a regression model and see the weights of each feature and see the statistical correlation of each feature with alcohol consumption.
+
+
+
+'<iframe id="weights" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/11.embed" height="525" width="100%"></iframe>'                </div>
+
+                  <iframe id="correlation" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/13.embed" height="525" width="100%"></iframe>
+
+Explanation correlations over weights:
+
+
+
+From the most important features chosen through the correlation we create a clustering to divide countries. Now we can visually see if this clustering matches with the alcohol consumption
+
+<p align="center"><iframe frameborder="0" class="juxtapose" width="80%" height="540" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f67889e0-2349-11ea-b9b8-0edaf8f81e27"></iframe></p>
+
                       </div>
 
 
-'<iframe id="restriction" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/18.embed" height="525" width="100%"></iframe>'
-                  '<iframe id="charges" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/3.embed" height="525" width="100%"></iframe>'
-                  '<iframe id="awareness" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/5.embed" height="525" width="100%"></iframe>'
-                  '<iframe id="correlation" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/13.embed" height="525" width="100%"></iframe>'
-'<iframe id="weights" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/11.embed" height="525" width="100%"></iframe>'                </div>
                 </div>
       </div>
     </div>
+
+
+
 </section>
 
 
@@ -534,12 +557,18 @@ The initial goal of the project is was to make an observational study and discov
                       Partially for this reason, the previously generated weights for GDP, for example, are quite low, despite it having one of the highest correlations with the alcohol consumption.
 
                   <iframe id="heatmap" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/36.embed" height="525" width="100%"></iframe>
+<p>
+  <br>
+</p>
 
 
 We can also think it in terms of the following causal diagram,
                       which illustrates how some socioeconomic-factors are linked to the government programs policies
 
                 <img class="img-fluid d-block mx-auto" src="img/Causal_diagram.png" alt="">
+<p>
+  <br>
+</p>
 
 These highly correlated variables would need to control for many factors to draw any valid conclusions.
                       The WHO alcohol control policy dataset is limited to the year 2016,
