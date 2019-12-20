@@ -108,17 +108,15 @@ Alcohol control policies exist since many years, from taxes to total bans. The W
     <div class="container">
 <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Policy analysis</h2>
+                    <h2 class="section-heading">Analysis of alcohol policies</h2>
 
-                    We identify three different means used by states to reduce the alcohol consumption:
+From the data from the World Health Organization allows one can identify three major means frequently used by states in their politics of alcohol consumption limitations and reduction:<br>
+1. charge money for alcohol production, retail and consumption. This is an interesting feature since the effectiveness of tax policy interventions for reducing excessive alcohol consumption is subjected to a lot of studies. Results tend to show a strong positive impact, which according to this study is proportional to the magnitude of the taxation.
+2. restrict access to alcohol in public places (e.g. in public transport, workplaces, places of worship, or during sporting events, etc)
+3. raising awareness of public health problems caused by harmful use of alcohol and ensuring support for effective alcohol policies. This is the soft approach since it aims to convince or persuade individuals to limit their own alcohol consumption. In practice, the government enforces laws that constraints alcohol companies and alcohol services in their relation with the clients (A known example are the health warning labels on alcohol advertisements)
 
-    charge money for alcohol production, retail and consumption
-    make the population aware of the dangers of alcohol
-    restrict access to alcohol
 
-
-                    <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/49.embed" height="525" width="100%"></iframe>
-                    We can observe that in the world the most common alcohol control policy is to charge the consumer an extra fee. This makes sense as it is the easiest to enforce also for lower-income countries, who do not have the budget to have government programmes to reduce alcohol consumption
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/60.embed" height="525" width="100%"></iframe>                    We can observe that in the world the most common alcohol control policy is to charge the consumer an extra fee. This makes sense as it is the easiest to enforce also for lower-income countries, who do not have the budget to have government programmes to reduce alcohol consumption
 
 We look a bit closer inside each category
 
@@ -131,13 +129,24 @@ We look a bit closer inside each category
                   <iframe id="region_policies" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/23.embed" height="525" width="100%"></iframe>
 
                       <div class= "text-corps">
-We can observe the popularity of different kind of policies is similar for different regions. The hypothesis made above about awareness being a policy put forward by developed countries does not stand as Western Europe has little difference with the other region in this category
+Observation:
+We observe that in the world the  <b>most common way to control alcohol consumption is through charging taxes</b> at different scales which range from production to consumption. In fact, it is almost as important as the sum of the frequency of usage of the two other features (0.81 for Charges and 0.89 for Awareness and Restrictions).
+Policies linked to raising awareness of the consumer is the least used of all the means.<br>
+                          Explanation:
+Charges is one of the easiest policies to enforce since countries need not use extensive human resources to support the enacted law. Hence, it makes sense especially for lower-income countries which do not have the budget to launch governmental programmes to reduce alcohol consumption. Taxation policies are however highly subjected to critics because they are a source of income for the government. The line between security driven politics and money driven politics is often blurry, in particular in countries subjected to lobbying and corruption.
+Awareness probably is less popular due to the high cost of enforcement and only developed governments can afford it. The effectiveness of this method is hard to assess since psychological leverages have an important latency. It involves processes which influence the mentalities on the long term. While enacting a taxation policy or a new restriction of alcohol usage is straightforward, awareness procedures demand an actual campaign costly in time and money.
+<br>
+     Special attention to:
+A possible explanation of this plot is the need of human resources. Indeed, when it comes to decision making, private and public actors are all constraints by a budget. Even in governments, where the security and health of the population should be a major concern, money is still a cross cutting issue and a high lever. Knowing that in any project a major expenditure is human resources. We can therefore reasonably carry that the more civil servants will be needed to set up the plan, the less this plan is likely to be chosen.
+This theory seem to adapt quite well to the data we have here.
+
 
                       </div>
                     <p>
   <br>
 </p>
                                             <h3 class="section-heading">Policies by religion </h3>
+                    We can observe that the popularity of different kinds of policies is similar for certain regions. The hypothesis made above about awareness being a policy put forward by developed countries does not stand as Western Europe has little difference with the other region in this category
                   <iframe id="religion_policies" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/25.embed" height="525" width="100%"></iframe>
 
                       <div class= "text-corps">
@@ -165,23 +174,24 @@ We can observe a few differences between countries with different religions
                     <h2 class="section-heading">Influence factors</h2>
                       <div class= "text-corps"> Several things influence alcohol consumption. We can initially think that the religion or the region in which a country is highly influences the alcohol consumption. We can see how these two factors compare to alcohol consumption in the following images.
 
+
 <p align="center"><iframe frameborder="0" class="juxtapose" width="80%" height="540" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=508b30fe-234a-11ea-b9b8-0edaf8f81e27"></iframe></p>
 
     <p align="center"><iframe frameborder="0" class="juxtapose" width="80%" height="540" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=614c5d82-234a-11ea-b9b8-0edaf8f81e27"></iframe></p>
 
 We try to find a more accurate way to separate countries in categories and understand what influences alcohol consumption.
-We have several alcohol control policies and socio-economic policies that probably influence alcohol policies. We have two way to assess the influence: train a regression model and see the weights of each feature and see the statistical correlation of each feature with alcohol consumption.
-
+We have several alcohol control policies and socio-economic policies that probably influence alcohol policies. We have two ways to assess the influence: train a regression model and see the weights of each feature and see the statistical correlation of each feature with alcohol consumption.
 
 
 '<iframe id="weights" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/11.embed" height="525" width="100%"></iframe>'                </div>
 
                   <iframe id="correlation" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/13.embed" height="525" width="100%"></iframe>
 
-Explanation correlations over weights:
+Even though the weights are less likely to accentuate on features that strongly correlate between themselves, they can also be less reasonable, especially if the model did not have much data to learn from, as it is in our case. For instance, the restrictions on alcohol use in parks and streets should certainly have a negative effect on alcohol consumption, but our model would put a larger weight on some other similar features (i.e. on use in leisure events) and use the given feature only for somewhat unreasonable adjustments due to correlations between said features. For that reason, we are going to use correlations with alcohol consumption directly, instead of the generated weights, even though they give some redundant information due to inter-correlations.
 
-
-
+                    <p>
+  <br>
+</p>
 From the most important features chosen through the correlation we create a clustering to divide countries. Now we can visually see if this clustering matches with the alcohol consumption
 
 <p align="center"><iframe frameborder="0" class="juxtapose" width="80%" height="540" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f67889e0-2349-11ea-b9b8-0edaf8f81e27"></iframe></p>
@@ -206,7 +216,12 @@ From the most important features chosen through the correlation we create a clus
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading">Case studies</h2>
-          <h3 class="section-subheading text-muted"> In this section we will do a more qualitative analysis of alcohol consumption in several countries and what seems to influence it. We start with some insights coming from our alcohol consumption dataset in which we analyse the coutries with the biggest increase in alcohol consumption between the year 2010 and 2015. These are Cambodia, Latvia and Uruguay. Estonia is additionally analyzed as it shows an important increase and is closely related to the increase in Latvia.</h3>
+          <h3 class="section-subheading text-muted"> In this section we will do a more qualitative analysis of alcohol consumption in several countries and what seems to influence it. We start with some insights coming from our alcohol consumption dataset in which we analyse the coutries with the biggest change in alcohol consumption between the year 2010 and 2015.</h3>
+<iframe id="change" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~EPFLTURNER/49.embed" height="525" width="100%"></iframe>            <p class="text-muted">
+            It is quite surprising to see that 39 countries where subjected to a very high variation of their alcohol consumption. A great increase can be seen in Cambodia, Latvia and Uruguay that we analyse above. Estonia is additionally analyzed as it shows an important increase and is closely related to the increase in Latvia
+Many countries also experience an important decrease. In particular, while looking at the horizontal bar plot above, Ukraine is a country which got the third highest drop of alcohol consumption in 6 years: -3.5 Liters.
+Lead by his curiosity, the ukranian group member decided to analyse closely his country to understand the reasons behind this variation.
+                 </p>
                   <img class="img-fluid d-block mx-auto" src="img/GDP_EI_MedianAge.PNG" alt="">
 
           <div class="row">
@@ -245,8 +260,7 @@ This problem seems highly entagled with economic incentives of the advertising i
         </div>
 
        </div>
-          <h3 class="section-subheading text-muted">Let's dive a bit deeper to look qualitatively how alcohol policy and consumption over time in four countries: China, France, Switzerland and Ukraine.
-            Our team-members come from these respective countries and thus will not be blocked by language problems and probably can bring more socio-cultural context.
+          <h3 class="section-subheading text-muted">We now want to analyse the high decrease of alcohol consumption. As one team-member is from Ukraine it offers us the possibility to analyse well it's alcohol policy. We take the occasion to analyse the countries of the rest of our fellow team members: China, France and Switzerland.
 </h3>
         </div>
       </div>
