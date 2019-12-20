@@ -1,4 +1,4 @@
-# Alcohol how to influence it?
+# Alcohol : how to influence it?
 
 ## Abstract
 Harmful use of alcohol causes more than 5% of the global disease burden. The death of more than [3 million people](https://www.who.int/news-room/detail/21-09-2018-harmful-use-of-alcohol-kills-more-than-3-million-people-each-year--most-of-them-men) a year is caused by the substance. Simultaneously it is source of a [1344 billion dollar industry](https://www.statista.com/statistics/696641/market-value-alcoholic-beverages-worldwide/), and an important cultural factor. This makes it a highly important, and highly complex, matter for regulators which have to take into account many aspects when creating policies.
@@ -9,10 +9,11 @@ Alcohol control policies exist since many years, from taxes to total bans. The W
 * What legislations are the most efficient in reducing alcohol consumption?
 * Does policies or socio-economic factor explain better different levels of alcohol consumption?
 
-In this project we first look quantitatively what correlates to alcohol consumption and then we take a qualitative view in specific case studies to see if these correlation might have a causasl link.
+In this project we first look quantitatively what correlates to alcohol consumption and then we take a qualitative view in specific case studies to see if these correlation might have a causal link.
 
 ## Datastory
 You can read our datastory on our [website](https://tomasturner.github.io/Notorious_ADA_Projet_2019/)
+You can read ou final notebook on [Nbviewer](https://nbviewer.jupyter.org/github/TomasTurner/Notorious_ADA_Projet_2019/blob/master/src/Final_notebook.ipynb)
 
 ## Dataset used
 [Reports]( https://www.who.int/substance_abuse/publications/alcohol/en/) from 1999 to 2018, Country profiles (PDFs) for 1999, 2004, 2011, 2014, 2018 (WHO)
@@ -32,10 +33,10 @@ You can read our datastory on our [website](https://tomasturner.github.io/Notori
 [Graphs](https://ourworldindata.org/alcohol-consumption) from Our world in Data on alcohol consumption correlations, webpage
 
 ## Team roles
-Mykita: Correlations, Regression Model, Case study ukraine
+Mykita: Clustering, Correlations, Regression Model, Case study Ukraine
 
 Tomas: Problem Formulation, Data Exploration, Case study Switzerland, Case studies section, Website, Presentation
 
-Tristan: Data Cleaning, Case study France, Code clarity
+Tristan: Data Cleaning, Case study France, Code clarity, Versions handling
 
-Zhuoyi: Data Visualization, Case study China, Poster
+Zhuoyi: Data Cleaning, Data Visualization, Case study China, Poster
